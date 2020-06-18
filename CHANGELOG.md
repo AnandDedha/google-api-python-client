@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://www.github.com/googleapis/google-api-python-client/compare/v1.9.3...v1.10.0) (2020-06-18)
+
+
+### Features
+
+* allow to use 'six.moves.collections_abc.Mapping' in 'client_options.from_dict()' ([#943](https://www.github.com/googleapis/google-api-python-client/issues/943)) ([21af37b](https://www.github.com/googleapis/google-api-python-client/commit/21af37b11ea2d6a89b3df484e1b2fa1d12849510))
+
 ### [1.9.3](https://www.github.com/googleapis/google-api-python-client/compare/v1.9.2...v1.9.3) (2020-06-10)
 
 
